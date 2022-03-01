@@ -6,6 +6,6 @@ So, I found out this wonderful repo [speedtest-cli](https://github.com/sivel/spe
 I developed this python script that consumes the *speedtest-cli* data and save the ping, download/upload speed and others informations about my bandwidth on a CSV file.
 Then, I created a windows scheduled task that executes my script every 5 minutes. So, every 5 minutes my script appends a new row with my bandwidth info into my CSV file. Now, I have my precious monitoring report about my internet. and I can measure better my internet bandwidth fluctuation.
 I know, there are N variables that makes my internet bandwidth fluctuate and others N variables that makes my report unreliable. However, was fun develop this script and learn new things.
-And, of course, the solution, will be change my internet bandwidth provider :laughing:
+And, of course, the solution, will be change my internet service provider :laughing:
 
 
