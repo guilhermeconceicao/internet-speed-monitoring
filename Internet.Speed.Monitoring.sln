@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Internet.Speed.Monitoring", "Internet.Speed.Monitoring.pyproj", "{2382BCD9-847E-414D-B2D9-8E25D74402E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2382BCD9-847E-414D-B2D9-8E25D74402E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2382BCD9-847E-414D-B2D9-8E25D74402E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4009BE65-7A52-4C47-B586-785F25D40809}
+	EndGlobalSection
+EndGlobal
